@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #eb9d79;
+    color: #070707;
+}
+div{
+    margin-top: 20px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: aliceblue;
+}
